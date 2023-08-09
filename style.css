@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif; */
+}
+
+.BiodataForm {
+    background: linear-gradient( to right, blue, rgb(245, 245, 247))
+}
+
+.BiodataForm h2 {
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+.BiodataForm label {
+    
+    color: white;
+     font-family: 'Poppins', sans-serif; 
+    /* font-family: 'Pacifico', cursive; */
+}
+
+.BiodataForm button {
+    font-family: 'Pacifico', cursive;
+}
+
+.BiodataForm input {
+    outline: none;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+    input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+     margin: 0; 
+}
+
+
+/* .span1,.span2,.span3 {
+    color:#4B5563;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.span-div {
+    
+    margin-top: 100px;
+    position: relative ;
+    height:500px;
+    width:1000px;
+    right: 500px;
+    top:400px;
+}
+
+.span-div p {
+    color: #4B5563;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 20px;
+} */
